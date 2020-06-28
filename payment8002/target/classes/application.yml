@@ -30,9 +30,9 @@ eureka:
     instance-id: payment8002
     # 显示注册服务的ip 地址
     prefer-ip-address: true
-    # eureka client 向服务端发送心跳的时间 默认为30s
-    lease-renewal-interval-in-seconds: 1
-    #服务端收到客户端上一次等待的时间默认为90s 超时则将其删除
-    lease-expiration-duration-in-seconds: 2
+#    # eureka client 向服务端发送心跳的时间 默认为30s
+#    lease-renewal-interval-in-seconds: 1
+#    #服务端收到客户端上一次等待的时间默认为90s 超时则将其删除
+#    lease-expiration-duration-in-seconds: 2
 
 
