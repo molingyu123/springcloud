@@ -23,6 +23,7 @@
       <module>consumerzk80</module>
       <module>payment8006</module>
       <module>consumer-consul80</module>
+      <module>consumer-fine-order80</module>
   </modules>
 
 
