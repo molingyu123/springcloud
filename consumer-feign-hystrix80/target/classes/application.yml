@@ -11,3 +11,8 @@ eureka:
 spring:
   application:
     name: consumer-feign-hystrix
+
+#启动断路器服务
+feign:
+  hystrix:
+    enabled: true

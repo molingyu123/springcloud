@@ -10,15 +10,15 @@
         <module name="erueka-server7002" />
         <module name="consumer80" />
         <module name="consumerzk80" />
-        <module name="payment8006" />
+        <module name="payment8004" />
         <module name="payment-hystrix8001" />
         <module name="consumer-fine-order80" />
         <module name="api-commons" />
         <module name="eureka-server7001" />
+        <module name="payment8006" />
         <module name="consumer-consul80" />
-        <module name="payment8004" />
-        <module name="consumer-feign-hystrix80" />
         <module name="payment8002" />
+        <module name="consumer-feign-hystrix80" />
         <module name="payment8001" />
       </profile>
     </annotationProcessing>
