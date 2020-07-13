@@ -21,8 +21,12 @@ spring:
             #断言路径相匹配进行路由
             - Path=/payment/get/**
             # 表明访问上面的请求必须在这个时间之后
-            - After=2020-07-12T21:23:59.992+08:00[Asia/Shanghai]
-            - Cookie=username,mly
+#            - After=2020-07-12T21:23:59.992+08:00[Asia/Shanghai]
+#            - Cookie=username,mly
+            #请求头中要有X-Request-Id 属性并赋值为整数的正则表达式
+#            - Header=X-Request-Id,\d+
+            - Method=GET
+
 
         - id: payment_routh2
 #          uri: http://localhost:8001
