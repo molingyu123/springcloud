@@ -24,6 +24,7 @@
       <module>consumer-feign-hystrix80</module>
       <module>consumer-hystrix-dashboard9001</module>
       <module>cloud-gateway9527</module>
+      <module>cloud-config</module>
   </modules>
 
 
