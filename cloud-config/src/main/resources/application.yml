@@ -9,10 +9,9 @@ spring:
       server:
         git:
           # git hub 上面仓库的地址
-          uri: git@github.com:molingyu123/springcloud.git
+          uri: https://github.com/molingyu123/springconfig.git
           search-paths:
-            - springcloud
-          # 分支
+            - springconfig
       label: master
 
 eureka:
