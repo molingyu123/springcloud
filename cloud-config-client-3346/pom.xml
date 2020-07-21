@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>cloud-config-client-3345</artifactId>
+    <artifactId>cloud-config-client-3346</artifactId>
     <dependencies>
 
         <!--        添加消息总系RabbitMQ-->
@@ -17,8 +17,7 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-bus-amqp</artifactId>
         </dependency>
-
-<!--         服务配置客户端-->
+        <!--         服务配置客户端-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-config</artifactId>

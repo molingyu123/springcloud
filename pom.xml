@@ -26,6 +26,7 @@
       <module>cloud-gateway9527</module>
       <module>cloud-config</module>
       <module>cloud-config-client-3345</module>
+      <module>cloud-config-client-3346</module>
   </modules>
 
 
