@@ -27,6 +27,7 @@
       <module>cloud-config</module>
       <module>cloud-config-client-3345</module>
       <module>cloud-config-client-3346</module>
+      <module>cloud-stream-rabbitmq-provider8801</module>
   </modules>
 
 

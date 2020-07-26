@@ -22,6 +22,7 @@
         <module name="erueka-server7002" />
         <module name="cloud-config-client-3346" />
         <module name="cloud-config-client-3345" />
+        <module name="cloud-stream-rabbitmq-provider8801" />
         <module name="consumer80" />
         <module name="consumerzk80" />
         <module name="eureka-server7001" />
